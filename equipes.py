@@ -1,0 +1,1 @@
+print('trabalhando em equipes')
